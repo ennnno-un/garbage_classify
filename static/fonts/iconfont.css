@@ -1,0 +1,51 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2493547 */
+  src: url('~@/static/fonts/iconfont.woff2?t=1619798396150') format('woff2'),
+       url('~@/static/fonts/iconfont.woff?t=1619798396150') format('woff'),
+       url('~@/static/fonts/iconfont.ttf?t=1619798396150') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-nan:before {
+  content: "\e6b2";
+}
+
+.icon-nv:before {
+  content: "\e707";
+}
+
+.icon-user:before {
+  content: "\e6ae";
+}
+
+.icon-guanbi:before {
+  content: "\e63f";
+}
+
+.icon-paizhao:before {
+  content: "\e6ba";
+}
+
+.icon-youhailaji:before {
+  content: "\e625";
+}
+
+.icon-kehuishouwu:before {
+  content: "\e627";
+}
+
+.icon-chuyulaji:before {
+  content: "\e602";
+}
+
+.icon-qitalaji:before {
+  content: "\e604";
+}
+

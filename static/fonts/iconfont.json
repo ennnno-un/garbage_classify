@@ -1,0 +1,72 @@
+{
+  "id": "2493547",
+  "name": "垃圾分类",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3831618",
+      "name": "男",
+      "font_class": "nan",
+      "unicode": "e6b2",
+      "unicode_decimal": 59058
+    },
+    {
+      "icon_id": "14795500",
+      "name": "女",
+      "font_class": "nv",
+      "unicode": "e707",
+      "unicode_decimal": 59143
+    },
+    {
+      "icon_id": "4403406",
+      "name": "用户",
+      "font_class": "user",
+      "unicode": "e6ae",
+      "unicode_decimal": 59054
+    },
+    {
+      "icon_id": "9798324",
+      "name": "关  闭",
+      "font_class": "guanbi",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "974852",
+      "name": "拍照",
+      "font_class": "paizhao",
+      "unicode": "e6ba",
+      "unicode_decimal": 59066
+    },
+    {
+      "icon_id": "10130863",
+      "name": "有害垃圾",
+      "font_class": "youhailaji",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "10130868",
+      "name": "可回收物",
+      "font_class": "kehuishouwu",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "13040723",
+      "name": "厨余垃圾",
+      "font_class": "chuyulaji",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "13040730",
+      "name": "其他垃圾",
+      "font_class": "qitalaji",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    }
+  ]
+}
